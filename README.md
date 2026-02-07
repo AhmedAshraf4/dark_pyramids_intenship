@@ -24,7 +24,6 @@ Then we can calculate variance of the output for all images to check which image
 
 ### Libraries Used
 - **OpenCV (cv2):** Video reading, frame processing, Laplacian computation.  
-- **heapq:** Efficiently maintain top K sharpest frames.  
 - **matplotlib:** Plotting frames for visualization.  
 - **os:** File handling and directory management.
 
